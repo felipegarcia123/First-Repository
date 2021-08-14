@@ -21,8 +21,15 @@ body{
     font-weight: bold;
     margin: 0;
     padding: 0.5em; ;
+    padding-top: 60px;
 }
-.cabecera,
+.img{
+    height: 60px;
+    width: 90px;
+    display: inherit;
+   
+    
+}
 .tag-line{
     padding: 0 0 0 1em;
     font-size: 0.8em;
