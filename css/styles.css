@@ -21,11 +21,27 @@ body{
     font-weight: bold;
     margin: 0;
     padding: 0.5em; ;
+    padding-top: 60px;
 }
-.cabecera,
+.img{
+    height: 60px;
+    width: 90px;
+    display: inherit;
+   
+    
+}
+<<<<<<< HEAD
+=======
+
+>>>>>>> 80f80c72ba38135d76f98db03a84a01ea06f3844
 .tag-line{
     padding: 0 0 0 1em;
     font-size: 0.8em;
     font-weight: normal;
 
+}
+.footer{
+    text-align: center;
+    background-color:rgb(93,93,141);
+    
 }
