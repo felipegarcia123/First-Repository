@@ -13,26 +13,28 @@ body{
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
+    margin-top: 10px;
 }
 .cabecera{
     background-color: blue;
     box-shadow: 0px 2px 20px 0px rgba(red, green, rgb(93, 93, 141), alpha);
     color: aliceblue;
     font-weight: bold;
-    margin: 0;
     padding: 0.5em; ;
-    padding-top: 60px;
+    padding-top: 6px;
 }
+
 .img{
     height: 60px;
     width: 90px;
     display: inherit;
+    margin: 0 auto;
    
     
 }
 .tag-line{
-    padding: 0 0 0 1em;
     font-size: 0.8em;
     font-weight: normal;
+    margin-bottom: 20px;
 
 }
